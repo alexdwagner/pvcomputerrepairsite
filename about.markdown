@@ -22,6 +22,4 @@ At Pioneer Valley Computer Repair, we pledge to serve our clients with patience 
 
 We are proud to support diverse communities, including seniors, LGBTQIA individuals, students, and more. Our mission is to make tech support approachable, inclusive, and tailored to the unique needs of each client.
 
-<hr class="divider">
-
 Let us know how we can assist you!
