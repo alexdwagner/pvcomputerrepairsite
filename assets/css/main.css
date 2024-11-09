@@ -11,9 +11,9 @@
     align-items: flex-start; /* Aligns items to the top */
     gap: 20px;               /* Adjust the spacing between columns */
   }
-  
-  .footer-col p, .contact-list {
-    margin: 0;               /* Remove any default margins */
+
+  .footer-col {
+    flex: 1; /* Allow columns to take equal width */
   }
 
   .site-footer p {

@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 
+title: Home
 permalink: /
 ---
 <img src="{{ "/assets/images/happy-computer.png" | relative_url }}" alt="Computer with smiley face on the monitor" class="homepage-image">
@@ -9,7 +9,7 @@ permalink: /
 
 *Serving the Pioneer Valley area.*
 
-We have 20+ years of combined experience fixing computers and smart devices. Former Apple Genius on staff. Mac and PC-friendly!
+We have 20+ years of combined experience fixing computers and smart devices. Former Apple Genius on staff. Mac and PC-friendly.
 
 **Services:** 
 
@@ -18,7 +18,7 @@ We have 20+ years of combined experience fixing computers and smart devices. For
 - Smartphones, tablets, smart TVs
 - Wi-fi setup
 - Printer issues
-- Squarespace/Wix/Weebly/Shopify Support
+- Squarespace/Wix/Weebly/Shopify technical support
 
 **$60/hr (1-hour minimum)**
 
