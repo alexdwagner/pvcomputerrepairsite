@@ -22,7 +22,6 @@ We have 20+ years of combined experience fixing computers and smart devices. For
   <li>Wi-fi setup</li>
   <li>Printer issues</li>
   <li>Squarespace/Wix/Weebly/Shopify technical support</li>
-  <br>
 </ul>
 
 <hr class="divider">
