@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-## About Pioneer Valley Computer Repair
-
 Pioneer Valley Computer Repair is a mobile computer repair service collectively run by two former Apple Store employees, Alex and Kait. With a shared passion for technology and community service, we bring our expertise directly to you, ensuring a personalized and patient approach to your tech needs.
 
 ### Meet the Team
