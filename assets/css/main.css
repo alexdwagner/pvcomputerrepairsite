@@ -105,7 +105,7 @@
         text-align: center;
     }
 
-    .site-header {
+    .site-header, .site-title {
         font-size: .5 rem;
     }
 
