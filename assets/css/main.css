@@ -30,3 +30,53 @@
     margin: 0;
     padding-top: 0;          /* Ensure no padding at the top of these columns */
   }
+
+  .services-list {
+    margin: 0;
+    text-align: left;
+    padding-left: 0;
+}
+
+
+/* Responsive styling for mobile screens up to 800px */
+@media (max-width: 800px) {
+    .footer-col-wrapper {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+    
+    .footer-col {
+        margin-bottom: 20px;
+    }
+
+    .services-list {
+        margin: 0 20px;      /* Adds 20px horizontal margin */
+        text-align: left;     /* Left-justifies the text */
+        list-style-type: disc; /* Adds bullet points */
+        padding-left: 20px;   /* Aligns bullets properly */
+    }
+}
+
+/* Center the homepage image at 400px */
+@media (max-width: 400px) {
+    .homepage-image {
+        float: none;
+        display: block;
+        margin: 0 auto;
+    }
+
+    /* Center vertically within the container */
+    body {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        min-height: 100vh;
+        text-align: center;
+    }
+
+    .site-header {
+        font-size: 1 rem;
+    }
+}

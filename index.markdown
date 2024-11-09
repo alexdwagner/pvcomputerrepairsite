@@ -13,12 +13,15 @@ We have 20+ years of combined experience fixing computers and smart devices. For
 
 **Services:** 
 
-- Hardware/software issues
-- Virus scan and removal
-- Smartphones, tablets, smart TVs
-- Wi-fi setup
-- Printer issues
-- Squarespace/Wix/Weebly/Shopify technical support
+<ul class="services-list">
+  <li>Hardware/software issues</li>
+  <li>Virus scan and removal</li>
+  <li>Smartphones, tablets, smart TVs</li>
+  <li>Wi-fi setup</li>
+  <li>Printer issues</li>
+  <li>Squarespace/Wix/Weebly/Shopify technical support</li>
+  <br>
+</ul>
 
 **$60/hr (1-hour minimum)**
 
