@@ -32,9 +32,31 @@
   }
 
   .services-list {
-    margin: 0;
+    /* margin: 0; */
     text-align: left;
-    padding-left: 0;
+    /* padding-left: 0; */
+}
+
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 1rem;
+    color: #fff;
+    background-color: #0073e6; /* Customize button color */
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.button:hover {
+    background-color: #005bb5; /* Darker shade on hover */
+}
+
+.divider {
+    border: none;
+    border-top: 2px solid #ddd; /* Customize color and thickness */
+    margin: 40px auto;             /* Adjust vertical spacing */
+    width: 100%;                 /* Optional: Adjust width */
 }
 
 
@@ -55,6 +77,13 @@
         text-align: left;     /* Left-justifies the text */
         list-style-type: disc; /* Adds bullet points */
         padding-left: 20px;   /* Aligns bullets properly */
+    }
+
+    .button {
+        display: block;           /* Makes the button take full width */
+        width: auto;              /* Allows it to be centered with margin */
+        margin: 20px auto;        /* Adds margin above and below and centers it */
+        text-align: center;       /* Centers text within the button */
     }
 }
 
@@ -77,6 +106,14 @@
     }
 
     .site-header {
-        font-size: 1 rem;
+        font-size: .5 rem;
+    }
+
+    .divider {
+        width: 100%;             /* Further adjust width on very small screens */
+    }
+
+    .button {
+        margin: 30px auto;        /* Adds even more top/bottom margin for small screens */
     }
 }
