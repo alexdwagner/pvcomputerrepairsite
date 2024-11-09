@@ -1,0 +1,32 @@
+.homepage-image {
+    max-width: 100%; /* Makes the image responsive */
+    width: 300px;    /* Sets a specific width */
+    height: auto;    /* Maintains aspect ratio */
+    float: right;        /* Aligns the image to the right */
+    margin-left: 20px;  
+  }
+  
+  .footer-col-wrapper {
+    display: flex;
+    align-items: flex-start; /* Aligns items to the top */
+    gap: 20px;               /* Adjust the spacing between columns */
+  }
+  
+  .footer-col p, .contact-list {
+    margin: 0;               /* Remove any default margins */
+  }
+
+  .site-footer p {
+    margin-top: 0;           /* Remove extra space at the top */
+  }
+  
+  .footer-col {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .footer-col-1,
+  .footer-col-3 {
+    margin: 0;
+    padding-top: 0;          /* Ensure no padding at the top of these columns */
+  }
